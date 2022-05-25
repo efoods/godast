@@ -1,0 +1,67 @@
+let code = 'i am a" squence\\'of code, 我是中国人';
+const name = "hel'lo world"
+3f=777
+c = 8;
+c ++
+//
+/**/
+!==
+===
+**=
+//==
+==//==** hello
+i++ + ++i
+/* this is comment \n text*/ let cnum = 999
+class A
+# this is single line comment
+function(a,b){
+ return a+b;
+}'
+'hello'
+'//hello'
+'/*hello*/'
+//this
+// this
+//*^*
+// 9090
+// 'hello'
+// "hello"
+///*
+/* */
+#'hello'
+#"hello"
+'heel
+///hello///asdasd
+//'hello'
+//"hello"
+'hello'
+'//hello'
+'#hello'
+'/*hello//*/'
+//this
+// this
+//*^*
+// 9090
+// 'hello'
+// "hello"
+///*
+///**/
+/*//*/
+/* */
+#'hello'
+#"hello"
+#//'hello'
+#//"'"hello'
+//#/*heelo*/
+class P{
+    prop:null
+    p = 0
+    constructor() {
+        /*"'this.*/name = 99
+    }
+}
+import react fom ./lib/int
+# asdasd
+"/*#123
+///hello///asdasd"
+1q10
