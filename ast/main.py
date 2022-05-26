@@ -7,7 +7,8 @@ from lib.analizer import Analizer
 
 
 def callback():
-    print('this is callback')
+    #print('this is callback')
+    pass
 
 
 def invoke(cb):
