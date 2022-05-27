@@ -24,8 +24,9 @@ OR
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp;tokenizer.py  
 ## Reader
 this is a class for read file as string use applied encoding
-we use it like this 
-`` const reader = new Reader(*filepath*, 'utf-8')``
+we use it like this  
+>const reader = new Reader(*filepath*, 'utf-8')  
+>str = reader.get_content()
 ## Tokenizer
 
 ## At Last
